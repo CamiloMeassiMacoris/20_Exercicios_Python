@@ -209,3 +209,18 @@ seguinte forma. Para pagamentos sem atraso, cobrar o valor da prestação. Quand
 
 20) Data com mês por extenso. Construa uma função que receba uma data no formato DD/MM/AAAA e devolva uma string
 no formato D de mesPorExtenso de AAAA. Opcionalmente, valide a data e retorne NULL caso a data seja inválida.
+
+Bonus) 
+Faça um programa em python que:
+- Leia um número inteiro de 0 (zero) a 1000000 (1 milhão)
+- Imprima o número por extenso.
+
+Exemplo:
+
+Para o valor 1356 a saída do programa será:
+
+um mil trezentos e cinquenta e seis
+
+ou
+
+mil trezentos e cinquenta e seis
