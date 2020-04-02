@@ -134,14 +134,14 @@ programa (usando uma lista de contadores) que determine quantos vendedores receb
 valores:
 
 ```
-$200 - $
-$300 - $
-$400 - $
-$500 - $
-$600 - $
-$700 - $
-$800 - $
-$900 - $
+$200 - $299
+$300 - $399
+$400 - $499
+$500 - $599
+$600 - $699
+$700 - $799
+$800 - $899
+$900 - $999
 $1000 em diante
 ```
 Desafio: Crie ma fórmula para chegar na posição da lista a partir do salário, sem fazer vários ifs aninhados.
